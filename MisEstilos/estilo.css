@@ -53,7 +53,7 @@ body{
 }
 
 .card a{
-    display: grid;
+/*     display: grid; */
     place-items: center;
     border: 0;
     background: #6939ff;
